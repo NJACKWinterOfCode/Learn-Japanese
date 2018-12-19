@@ -35,6 +35,6 @@
 
 -Try conversing with someone in full-fledged japanese .
 
--Try Audio for pronunciation to learn more.
+-Try Audio for pronunciation file to learn more.
 
 -CONGRATULATIONS YOU HAVE LEARNT TO SPEAK JAPANEESE
