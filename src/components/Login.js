@@ -44,7 +44,6 @@ export default class Login extends Component {
             console.log(err);
         }
     }
-
     async signup(e) {
         e.preventDefault();
 
