@@ -42,7 +42,6 @@ class Navbar extends React.Component {
             console.log(err);
         }
 	}
-	
 	async deleteAcc(e) {
         e.preventDefault();
         var r = window.confirm("Are you sure you want to delete your account. All your data will be deleted permanently.");
